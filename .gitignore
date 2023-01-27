@@ -1,1 +1,3 @@
 .myvenv/
+.gitignore/
+test.py/
